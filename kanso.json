@@ -2,7 +2,7 @@
 	"name": "kanso-d3-example",
 	"version": "0.0.1",
 	"description": "based on mbstock example",
-	"attachments": ["index.html", "sp500.csv", "import.html"],
+	"attachments": ["index.html", "import.html"],
 	"modules": ["lib"],
 	"dependencies": {
 		"attachments": null,
