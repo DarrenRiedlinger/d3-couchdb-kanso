@@ -4,8 +4,10 @@
 	"description": "based on mbstock example",
 	"attachments": ["index.html", "import.html"],
 	"modules": ["lib"],
+	"load": "lib/app",
 	"dependencies": {
 		"attachments": null,
-		"modules": null
+		"modules": null,
+		"properties": null
 	}
 }
